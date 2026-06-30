@@ -44,3 +44,13 @@ streamlit run app.py
 
 ##  Author
 Developed as part of a Healthcare AI Project.
+
+## Project Screenshots
+
+| System login interface | Risk screening before generating | Risk screening result |
+| :---: | :---: | :---: |
+| ![Login](SystemLoginInterface.png) | ![Risk](RiskScreeningPageBeforeGenerating.png) | ![Result](RiskScreeningResults.png) |
+
+| ICU patient monitoring dashboard | ICU monitoring interface | admin dashboard | Admission analytics |
+| :---: | :---: | :---: | :---: |
+| ![Dashboard](ICUPatientMonitoringDashboard.png) | ![Monitoring](ICUMonitoringInterface.png) | ![Admin](AdminDashboard.png) | ![Analytics](AdmissionsAnalytics.png) |
